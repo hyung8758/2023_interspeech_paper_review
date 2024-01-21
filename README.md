@@ -19,7 +19,7 @@
 
 ## 1월 페이퍼 리뷰 list up
 - Speech Recognition: 음성인식
-    - Selective Biasing with Trie-based Contextual Adapters for Personalised Speech Recognition using Neural Transducers
+    - [Selective Biasing with Trie-based Contextual Adapters for Personalised Speech Recognition using Neural Transducers](https://hushed-metal-1dc.notion.site/1-Selective-Biasing-with-Trie-based-Contextual-Adapters-for-Personalised-Speech-Recognition-using-N-2ce836df5b844748a59be003901eafc8?pvs=4)
     - Learning When to Trust Which Teacher for Weakly Supervised ASR
     - Text-only Domain Adaptation using Unified Speech-Text Representation in Transducer
     - Language Agnostic Data-Driven Inverse Text Normalization
@@ -28,3 +28,4 @@
     - EmoMix: Emotion Mixing via Diffusion Models for Emotional Speech Synthesis
 - Speech Emotion Recognition: 감정인식
     - Personalized Adaptation with Pre-trained Speech Encoders for Continuous Emotion Recognition
+    
