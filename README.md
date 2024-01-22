@@ -20,12 +20,12 @@
 ## 1월 페이퍼 리뷰 list up
 - Speech Recognition: 음성인식
     - [Selective Biasing with Trie-based Contextual Adapters for Personalised Speech Recognition using Neural Transducers](https://hushed-metal-1dc.notion.site/1-Selective-Biasing-with-Trie-based-Contextual-Adapters-for-Personalised-Speech-Recognition-using-N-2ce836df5b844748a59be003901eafc8?pvs=4)
-    - Learning When to Trust Which Teacher for Weakly Supervised ASR
-    - Text-only Domain Adaptation using Unified Speech-Text Representation in Transducer
-    - Language Agnostic Data-Driven Inverse Text Normalization
-    - How to Estimate Model Transferability of Pre-Trained Speech Models?
+    - [Learning When to Trust Which Teacher for Weakly Supervised ASR](https://hushed-metal-1dc.notion.site/2-Learning-When-to-Trust-Which-Teacher-for-Weakly-Supervised-ASR-Amazon-Alexa-39607b33add147a59580065f836a1190?pvs=4)
+    - [Text-only Domain Adaptation using Unified Speech-Text Representation in Transducer](https://hushed-metal-1dc.notion.site/3-Text-only-domain-Adaptation-using-Unified-Speech-Text-Representation-in-Transducer-ByteDance-8dfb4241165343eea2666510befcbba0?pvs=4)
+    - [Language Agnostic Data-Driven Inverse Text Normalization](https://hushed-metal-1dc.notion.site/4-Language-Agnostic-Data-Driven-Inverse-Text-Normalization-Meta-AI-a705ad4390b7453db91dc6f4238f607d?pvs=4)
+    - [How to Estimate Model Transferability of Pre-Trained Speech Models?](https://hushed-metal-1dc.notion.site/5-How-to-Estimate-Model-Transferability-of-Pre-Trained-Speech-Models-National-Taiwan-Univ-Google-17c0652a6d784d2ea2418821954b613d?pvs=4)
 - Speech Synthesis: 음성합성
-    - EmoMix: Emotion Mixing via Diffusion Models for Emotional Speech Synthesis
+    - [EmoMix: Emotion Mixing via Diffusion Models for Emotional Speech Synthesis](https://hushed-metal-1dc.notion.site/6-EmoMix-Emotion-Mixing-via-Diffusion-Models-for-Emotional-Speech-Synthesis-Ping-An-Technology-047d13a07d564efbb679f959dd3608cb?pvs=4)
 - Speech Emotion Recognition: 감정인식
-    - Personalized Adaptation with Pre-trained Speech Encoders for Continuous Emotion Recognition
+    - [Personalized Adaptation with Pre-trained Speech Encoders for Continuous Emotion Recognition](https://hushed-metal-1dc.notion.site/7-Personalized-Adaptation-with-Pre-trained-Speech-Encoders-for-Continuous-Emotion-Recognition-Amaz-b499b3b131f54834a6c8cafcc6c29433?pvs=4)
     
