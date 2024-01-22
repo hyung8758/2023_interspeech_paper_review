@@ -2,6 +2,11 @@
 - 음성과 관련된 다양한 연구들을 참고하고자 2023년도 interspeech 논문을 리뷰한다.
 - 월말마다 내용을 정리하여 업로드한다. 
 
+## 논문 review의 목적
+- 논문 리뷰를 통해 새로운 아이디어를 follow up 하고자 한다.
+- 특히 관심있는 아이디어의 경우 실적용해보면서 그 의도를 심층탐구한다.
+- 이러한 아이디어를 응용하여 내가 연구하는 분야에 실적용 해본다.
+
 ## 2023 interspeech
 - 홈페이지: [방문하기](https://interspeech2023.org/)
 - 페이퍼 리스트: [방문하기](https://www.isca-speech.org/archive/interspeech_2023/index.html)
