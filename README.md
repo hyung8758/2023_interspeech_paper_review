@@ -28,7 +28,7 @@
     6. **결론** : 최종 결론.
 
 ## 1월 페이퍼 리뷰 list up (완료)
-|No.|topic|reviewer|
+|No.|Topic|Reviewer|
 | :---: |:---|:---:|
 ||**Speech Recognition**||
 |1|[Selective Biasing with Trie-based Contextual Adapters for Personalised Speech Recognition using Neural Transducers](https://hushed-metal-1dc.notion.site/1-Selective-Biasing-with-Trie-based-Contextual-Adapters-for-Personalised-Speech-Recognition-using-N-2ce836df5b844748a59be003901eafc8?pvs=4)|양형원|
