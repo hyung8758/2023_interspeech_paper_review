@@ -40,4 +40,13 @@
 ||**Speech Synthesis**|
 |7|[EmoMix: Emotion Mixing via Diffusion Models for Emotional Speech Synthesis](https://hushed-metal-1dc.notion.site/6-EmoMix-Emotion-Mixing-via-Diffusion-Models-for-Emotional-Speech-Synthesis-Ping-An-Technology-047d13a07d564efbb679f959dd3608cb?pvs=4)|양형원|
 
-## 2월 페이퍼 리뷰 list up (준비 중)
+## 2월 페이퍼 리뷰 list up (완료)
+|No.|Topic|Reviewer|
+| :---: |:---|:---:|
+||**Speech Recognition**||
+|1|[Automatic Data Augmentation for Domain Adapted Fine-Tuning of Self-Supervised Speech Representations](https://hushed-metal-1dc.notion.site/1-Speech-Recognition-1482c611fde34dd4a8cf422c596fa99a?pvs=4)|양형원|
+2|[Iteratively Improving Speech Recognition and Voice Conversion](https://hushed-metal-1dc.notion.site/2-Speech-Recognition-e5e80603fb694be38936c64383f542f7?pvs=4)|양형원|
+|3|[Dual-Mode NAM: Effective Top-K Context Injection for End-to-End ASR](https://hushed-metal-1dc.notion.site/3-Speech-Recognition-3770e5c205cc4a169a3b4c4a22a0afad?pvs=4)|양형원|
+|4|[Knowledge Distillation for Neural Transducer-based Target-Speaker ASR:Exploiting Parallel Mixture/Single-Talker Speech Data](https://hushed-metal-1dc.notion.site/4-Speech-Recognition-b2896a2b1b0541e1a25126e80c769580?pvs=4)|양형원|
+|5|[Multi-Head State Space Model for Speech Recognition]()|손수한|
+|6|[Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization]()|황수림|
