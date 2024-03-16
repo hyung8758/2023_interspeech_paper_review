@@ -50,3 +50,13 @@
 |4|[Knowledge Distillation for Neural Transducer-based Target-Speaker ASR:Exploiting Parallel Mixture/Single-Talker Speech Data](https://hushed-metal-1dc.notion.site/4-Speech-Recognition-b2896a2b1b0541e1a25126e80c769580?pvs=4)|양형원|
 |5|[Multi-Head State Space Model for Speech Recognition](https://mica-mule-3e1.notion.site/Multi-Head-State-Space-Model-for-Speech-Recognition-c7d7a550b1b24b099fc4756838879bb6)|손수한|
 |6|[Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization](https://attractive-kale-90c.notion.site/Prompting-the-Hidden-Talent-of-Web-Scale-Speech-Models-for-Zero-Shot-Task-Generalization-2e6091987ed244be971266b97c3a6d2c?pvs=4)|황수림|
+## 3-4월 페이퍼 리뷰 list up (업데이트 중)
+|No.|Topic|Reviewer|
+| :---: |:---|:---:|
+||**Speech Recognition**||
+|1|[Bypass Temporal Classification: Weakly Supervised Automatic Speech Recognition with Imperfect Transcripts](https://hushed-metal-1dc.notion.site/1-Speech-Recognition-785150191b91433daa8ac99243a3d8cf?pvs=4)|양형원|
+2|[Rehearsal-Free Online Continual Learning for Automatic Speech Recognition](https://hushed-metal-1dc.notion.site/2-Speech-Recognition-604a24e86bed4ff09320fec152e8a3a6?pvs=4)|양형원|
+|3|[CLRL-Tuning: A Novel Continual Learning Approach for Automatic Speech Recognition](https://hushed-metal-1dc.notion.site/3-Speech-Recognition-e935e41386634a11acdf3ef607effcbf?pvs=4)|양형원|
+|4|[Enhancing the Unified Streaming and Non-streaming Model with Contrastive Learning](https://hushed-metal-1dc.notion.site/4-Speech-Recognition-e1bc379fafe54628946b56fd1c8a9f47?pvs=4)|양형원|
+||**Speech Summarization**|
+|5|[BASS: Block-wise Adaptation for Speech Summarization](https://hushed-metal-1dc.notion.site/5-Speech-Summarization-c98b80fb62134219ba34558e8c7a0993?pvs=4)|양형원|
