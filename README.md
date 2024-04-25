@@ -58,6 +58,6 @@
 2|[Rehearsal-Free Online Continual Learning for Automatic Speech Recognition](https://hushed-metal-1dc.notion.site/2-Speech-Recognition-604a24e86bed4ff09320fec152e8a3a6?pvs=4)|양형원|
 |3|[CLRL-Tuning: A Novel Continual Learning Approach for Automatic Speech Recognition](https://hushed-metal-1dc.notion.site/3-Speech-Recognition-e935e41386634a11acdf3ef607effcbf?pvs=4)|양형원|
 |4|[Enhancing the Unified Streaming and Non-streaming Model with Contrastive Learning](https://hushed-metal-1dc.notion.site/4-Speech-Recognition-e1bc379fafe54628946b56fd1c8a9f47?pvs=4)|양형원|
-|5|[Improving grapheme-to-phoneme conversion by learning pronunciations from speech recordings](https://attractive-kale-90c.notion.site/Improving-grapheme-to-phoneme-conversion-by-learning-pronunciations-from-speech-recordings-6d96e79783d84f3d8c4170ace583f646)|황수림|
+|5|[Improving grapheme-to-phoneme conversion by learning pronunciations from speech recordings](https://attractive-kale-90c.notion.site/Improving-grapheme-to-phoneme-conversion-by-learning-pronunciations-from-speech-recordings-6d96e79783d84f3d8c4170ace583f646)|황수림|
 ||**Speech Summarization**|
 |6|[BASS: Block-wise Adaptation for Speech Summarization](https://hushed-metal-1dc.notion.site/5-Speech-Summarization-c98b80fb62134219ba34558e8c7a0993?pvs=4)|양형원|
